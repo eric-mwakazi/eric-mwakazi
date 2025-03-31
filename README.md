@@ -12,7 +12,7 @@
 🚀 Let’s connect and explore how we can bring impactful ideas to life!
 
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="neivanny1" width="400">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="eric-mwakazi" width="400">
 
 
 ### - 📫 Reach me through email **nevileneivanny@gmail.com** <br>
@@ -20,7 +20,7 @@
 ### Connect With Me:
 [![Twitter: NeivannyN ](https://img.shields.io/twitter/follow/NeivannyN?style=for-the-badge&color=black)](https://twitter.com/NeivannyN)
 [![Linkedin: Mwakazi](https://img.shields.io/badge/-Eric-blue?style=for-the-badge&logo=Linkedin&Color=black)](https://www.linkedin.com/in/eric-mwakazi/)
-[![GitHub Neivanny1 ](https://img.shields.io/github/followers/neivanny1?label=follow&style=for-the-badge&color=black)](https://github.com/eric-mwakazi)
+[![GitHub Neivanny1 ](https://img.shields.io/github/followers/eric-mwakazi?label=follow&style=for-the-badge&color=black)](https://github.com/eric-mwakazi)
 ### Languages 💻 🌐
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -82,13 +82,13 @@
 
 ### Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neivanny1&label=Profile%20views&color=0e75b6&style=flat" alt="neivanny1" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neivanny1" alt="neivanny1" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neivanny1&show_icons=true&locale=en&layout=compact" alt="neivanny1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neivanny1&show_icons=true&locale=en" alt="neivanny1" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eric-mwakazi&label=Profile%20views&color=0e75b6&style=flat" alt="eric-mwakazi" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eric-mwakazi" alt="eric-mwakazi" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-mwakazi&show_icons=true&locale=en&layout=compact" alt="eric-mwakazi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eric-mwakazi&show_icons=true&locale=en" alt="eric-mwakazi" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neivanny1&" alt="neivanny1" /></p> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neivanny1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eric-mwakazi)](https://git.io/streak-stats)
 
 
 ### My GitHub Profile Summary
@@ -96,23 +96,23 @@
 <table>
   <tr>
     <td style="width: 48%; margin: 5px; text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neivanny1&theme=darcula" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eric-mwakazi&theme=darcula" />
     </td>
     <td style="width: 48%; margin: 5px; text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neivanny1&theme=darcula" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eric-mwakazi&theme=darcula" />
     </td>
   </tr>
   <tr>
     <td style="width: 48%; margin: 5px; text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neivanny1&theme=darcula" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eric-mwakazi&theme=darcula" />
     </td>
     <td style="width: 48%; margin: 5px; text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neivanny1&theme=darcula&utcOffset=8" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eric-mwakazi&theme=darcula&utcOffset=8" />
     </td>
   </tr>
     <tr>
     <td colspan="2" style="width: 100%; text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neivanny1&theme=darcula" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eric-mwakazi&theme=darcula" />
     </td>
   </tr>
 </table>
@@ -123,9 +123,9 @@
 <h1 style="text-align: center; font-size: 60px; color: purple;">Quick Tips Section</h1>
 
 
-![Alt Text](https://github.com/Neivanny1/Neivanny1.github.io/blob/master/assets/devsecops.gif)
+![Alt Text](https://github.com/eric-mwakazi/eric-mwakazi.github.io/blob/master/assets/devsecops.gif)
 
 
-![Alt Text](https://github.com/Neivanny1/Neivanny1.github.io/blob/master/assets/linux.gif)
+![Alt Text](https://github.com/eric-mwakazi/eric-mwakazi.github.io/blob/master/assets/linux.gif)
 
 

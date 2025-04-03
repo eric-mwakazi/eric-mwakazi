@@ -1,16 +1,16 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsimplecoding.dev%2Fassets%2Fdevops.gif&f=1&nofb=1&ipt=5b6d2625a334d7b7a12686bfa606dc36bcd71080139c35191b2adf68f1cc124f&ipo=images)](https://rishavchanda.io)
 ### <h1 align="center">DEVOPS ENGINEER</h1>
 ###  - 🌱 **About**
-👋 Hi there! I'm Eric Mwakazi, a skilled backend developer with expertise in Python, Flask, FastAPI and Node.js, specializing in creating robust, scalable web applications and APIs.
+👋 Hi there! I'm Eric Mwakazi, a skilled backend developer with expertise in Python, Flask, and Node.js, specializing in creating robust, scalable web applications and APIs.
 
 💻 With a strong foundation in Python, I focus on building clean, efficient code to enhance user experiences. My experience extends to DevOps, where I’m proficient in tools like Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, and Grafana, allowing me to streamline CI/CD pipelines, automate infrastructure, and monitor applications effectively.
 
 🌐 I bring a solid grasp of full-stack development principles, including HTML, CSS, and JavaScript, and collaborate with frontend teams to deliver cohesive solutions. My database management experience in SQL and NoSQL ensures data integrity and optimal performance for dynamic applications.
 
 🛠️ Skilled in version control with Git and comfortable in Agile environments, I’m a recent ALX software engineering graduate eager to apply my technical and collaborative skills to innovative projects.
+☁️ I also have hands-on experience with cloud platforms like AWS and Azure, enabling me to design scalable and resilient cloud-based solutions.
 
 🚀 Let’s connect and explore how we can bring impactful ideas to life!
-
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="eric-mwakazi" width="400">
 
@@ -32,8 +32,6 @@
 
 ### Software Development Frameworks and Libraries💻 🌐
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/angular--material-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -41,14 +39,33 @@
 
 ### Devops Tools and Frameworks ⚙️ 🖥
 
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&color=bl)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins&color=black)
-![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=for-the-badge&logo=prometheus&color=black)
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&color=black)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=FCC624&color=black)
-![Grafana](https://img.shields.io/badge/-Grafana-333333?style=for-the-badge&logo=grafana&color=black)
-![WireGuard](https://img.shields.io/badge/-WireGuard-333333?style=for-the-badge&logo=wireguard&color=black)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes&color=black)
+  #### 🏗 Provisioning & Infrastructure as Code  
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=for-the-badge&logo=terraform&color=black)  
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=for-the-badge&logo=ansible&color=black)  
+  
+  #### ⚙️ Configuration Management  
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=for-the-badge&logo=ansible&color=black)  
+  
+  #### 🚢 Containerization & Orchestration  
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&color=black)  
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes&color=black)  
+  
+  #### 🔄 CI/CD & Automation  
+  ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI/CD-333333?style=for-the-badge&logo=gitlab&color=black)  
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins&color=black)  
+  
+  #### 📊 Monitoring & Observability  
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=for-the-badge&logo=prometheus&color=black)  
+  ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=for-the-badge&logo=grafana&color=black)  
+  
+  #### 🔧 Version Control & OS  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&color=black)  
+  ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=FCC624&color=black)
+
+   #### ☁️ Cloud Platforms  
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazonaws&color=black)  
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=azure&color=black)  
+
 
 
 ### Database
@@ -60,8 +77,9 @@
 <!-- <h2 align="right">Favourite Movie Actors</h2>
  <img align="right"  src="https://drive.google.com/uc?id=1cvcBsa7GgCHfTgQ0Fh1fV4_Xt6rKfL-z" alt="Description of the embedded content">
 -->
-### Security Tools
-[![Parrot OS](https://img.shields.io/badge/-Parrot-000000?style=for-the-badge&logo=parrot-os&logoColor=%23f59e0b&color=lightred)](https://www.parrotlinux.org/)
+### 🔒 Networking & Security  
+![WireGuard](https://img.shields.io/badge/-WireGuard-333333?style=for-the-badge&logo=wireguard&color=black)  
+<!--[![Parrot OS](https://img.shields.io/badge/-Parrot-000000?style=for-the-badge&logo=parrot-os&logoColor=%23f59e0b&color=lightred)](https://www.parrotlinux.org/)
 [![Kali Linux](https://img.shields.io/badge/-Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=%23df0030&color=purple)](https://www.kali.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=%23fe811a)](https://www.nmap.org/)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=%234285f4&color=blue)](https://wireshark.org/)
@@ -72,7 +90,7 @@
 ### Visualisation
 [![Chart.js](https://img.shields.io/badge/chartjs-%23000000.svg?style=for-the-badge&logo=chartjs&logoColor=%234285F4)](https://chartjs.org/)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=%23DF0030)](https://matplotlib.org/)
-
+-->
 ### Virtualization
 [![Proxmox](https://img.shields.io/badge/Proxmox-%23000000.svg?style=for-the-badge&logo=proxmox&logoColor=%23E57000)](https://proxmox.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=%23FFFFFF)](https://www.virtualbox.org/)

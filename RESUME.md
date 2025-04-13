@@ -99,4 +99,4 @@ Python | Bash | SQL | Flask | Git | Terraform | Ansible | Kubernetes | Docker | 
 
 **George Mshimba Kimbio**  
 Tech Lead, Wananchi Group  
-📧 georgekimbio@gail.com  
+📧 georgekimbio@gmail.com  

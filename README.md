@@ -1,5 +1,10 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsimplecoding.dev%2Fassets%2Fdevops.gif&f=1&nofb=1&ipt=5b6d2625a334d7b7a12686bfa606dc36bcd71080139c35191b2adf68f1cc124f&ipo=images)](https://rishavchanda.io)
 ### <h1 align="center">DEVOPS ENGINEER</h1>
+
+## [🧰 MY RESUME](https://github.com/eric-mwakazi/eric-mwakazi/blob/main/RESUME.md)
+
+## [🌐Checkout My Portfolio Website](https://mwakazieric.vercel.app/)
+
 ###  - 🌱 **About**
 👋 Hi there! I'm Eric Mwakazi, a skilled backend developer with expertise in Python, Flask, and Node.js, specializing in creating robust, scalable web applications and APIs.
 
@@ -10,9 +15,6 @@
 🛠️ Skilled in version control with Git and comfortable in Agile environments, I’m a recent ALX software engineering graduate eager to apply my technical and collaborative skills to innovative projects.
 ☁️ I also have hands-on experience with cloud platforms like AWS and Azure, enabling me to design scalable and resilient cloud-based solutions.
 
-## [🧰 MY RESUME](https://github.com/eric-mwakazi/eric-mwakazi/blob/main/RESUME.md)
-
-## [Checkout My Portfolio Website](https://mwakazieric.vercel.app/)
 
 🚀 Let’s connect and explore how we can bring impactful ideas to life!
 

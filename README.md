@@ -12,6 +12,8 @@
 
 ## [🧰 MY RESUME](https://github.com/eric-mwakazi/eric-mwakazi/blob/main/RESUME.md)
 
+## [Checkout My Portfolio Website](https://mwakazieric.vercel.app/)
+
 🚀 Let’s connect and explore how we can bring impactful ideas to life!
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="eric-mwakazi" width="400">

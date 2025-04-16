@@ -35,6 +35,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### Database
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=blue)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql&color=blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&color=green)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis&color=red)
 
 ### Software Development Frameworks and Libraries💻 🌐
 
@@ -73,12 +78,6 @@
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=azure&color=black)  
 
 
-
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=blue)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql&color=blue)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&color=green)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis&color=red)
 
 <!-- <h2 align="right">Favourite Movie Actors</h2>
  <img align="right"  src="https://drive.google.com/uc?id=1cvcBsa7GgCHfTgQ0Fh1fV4_Xt6rKfL-z" alt="Description of the embedded content">

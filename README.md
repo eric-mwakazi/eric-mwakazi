@@ -109,9 +109,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eric-mwakazi" alt="eric-mwakazi" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-mwakazi&show_icons=true&locale=en&layout=compact" alt="eric-mwakazi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eric-mwakazi&show_icons=true&locale=en" alt="eric-mwakazi" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neivanny1&" alt="neivanny1" /></p> -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eric-mwakazi)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eric-mwakazi" alt="eric-mwakazi" /></p>
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eric-mwakazi)](https://git.io/streak-stats)-->
 
 
 ### My GitHub Profile Summary

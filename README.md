@@ -5,7 +5,8 @@
 
 ## [🌐My LinkedIn](https://www.linkedin.com/in/eric-mwakazi/)
 
-## [🌐Checkout My Portfolio Website](https://mwakazieric.vercel.app/)
+## [🌐My Portfolio Website](https://mwakazieric.vercel.app/)
+## [📫Email: mwakazieric@gmail.com](mailto:mwakazieric@gmail.com)
 
 ###  - 🌱 **About**
 👋 Hi there! I'm Eric Mwakazi, a skilled backend developer with expertise in Python, Flask, and Node.js, specializing in creating robust, scalable web applications and APIs.
@@ -22,16 +23,15 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="eric-mwakazi" width="400">
 
-### - 📫 Reach me through email **nevileneivanny@gmail.com** <br>
 ### Connect With Me:
 [![Twitter: NeivannyN ](https://img.shields.io/twitter/follow/NeivannyN?style=for-the-badge&color=black)](https://twitter.com/NeivannyN)
 [![Linkedin: Mwakazi](https://img.shields.io/badge/-Eric-blue?style=for-the-badge&logo=Linkedin&Color=black)](https://www.linkedin.com/in/eric-mwakazi/)
 [![GitHub Neivanny1 ](https://img.shields.io/github/followers/eric-mwakazi?label=follow&style=for-the-badge&color=black)](https://github.com/eric-mwakazi)
-### Languages 💻 🌐
-
+### Programming Languages 💻 🌐
+<!--
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 

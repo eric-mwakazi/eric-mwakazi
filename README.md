@@ -3,6 +3,8 @@
 
 ## [🧰 MY RESUME](https://github.com/eric-mwakazi/eric-mwakazi/blob/main/RESUME.md)
 
+## [🌐My LinkedIn](https://www.linkedin.com/in/eric-mwakazi/)
+
 ## [🌐Checkout My Portfolio Website](https://mwakazieric.vercel.app/)
 
 ###  - 🌱 **About**

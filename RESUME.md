@@ -29,7 +29,7 @@ Seeking a challenging role in **operations and systems control** where I can app
 - **Monitoring & Logging:** Prometheus, Grafana  
 
 ### 🔹 Backend & System Administration:
-- **Programming:** Python (Flask), Bash  
+- **Programming:** Python (Flask), Nodejs,TypeScript and Bash  
 - **Web APIs & Integrations:** REST APIs  
 - **Database Management:** PostgreSQL, MySQL, MongoDB  
 - **Networking & Security:** VPN, Firewalls, CEH-certified practices  

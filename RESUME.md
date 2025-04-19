@@ -4,7 +4,7 @@
 🔧 DevOps Engineer | Backend Developer | Infrastructure Automation | Cloud-Native Enthusiast  
 📍 Mombasa, Kenya  
 📞 0706570456 | 📧 mwakazieric@gmail.com  
-🔗 <a href="https://www.linkedin.com/in/eric-mwakazi" style="color: #1DA1F2;">LinkedIn</a> | <a href="https://github.com/eric-mwakazi" style="color: #1DA1F2;">GitHub</a>
+🔗 <a href="https://mwakazieric.vercel.app" style="color: #1DA1F2;">Portfolio</a> |<a href="https://www.linkedin.com/in/eric-mwakazi" style="color: #1DA1F2;">LinkedIn</a> | <a href="https://github.com/eric-mwakazi" style="color: #1DA1F2;">GitHub</a>
 
 </div>
 

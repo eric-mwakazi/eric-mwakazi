@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 **Professional Summary**
 
-Passionate ** Software Developer and DevOps Enthusiast ** with expertise in **Python, Flask, and Linux system administration**. Experienced in **cloud computing, infrastructure automation, and CI/CD pipelines** with Docker, Kubernetes, and Jenkins. Strong background in **system troubleshooting, monitoring, and security**, supported by **CEH training**. Adept at optimizing system performance, securing applications, and integrating APIs.
+Passionate **Software Developer and DevOps Enthusiast** with expertise in **Python, Flask, and Linux system administration**. Experienced in **cloud computing, infrastructure automation, and CI/CD pipelines** with Docker, Kubernetes, and Jenkins. Strong background in **system troubleshooting, monitoring, and security**, supported by **CEH training**. Adept at optimizing system performance, securing applications, and integrating APIs.
 
 Seeking a challenging role in **operations and systems control** where I can apply my skills in automation, infrastructure optimization, and security.
 

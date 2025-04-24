@@ -48,7 +48,7 @@ Seeking a challenging role in **operations and systems control** where I can app
 ### **RentchApp.com**  
 **Software Developer** *(Jun 2024 – Sep 2024)*  
 - Designed and deployed secure, well-documented Flask-based APIs for property management  
-- Utilized Docker & Kubernetes for scalable backend services  
+- Utilized Docker and Google Container Registry (GCR) for scalable backend services  
 - Enhanced system security with NGINX reverse proxy and database encryption  
 
 ### **Reef Hotel Kenya**  

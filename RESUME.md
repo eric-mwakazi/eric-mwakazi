@@ -1,4 +1,4 @@
-<div style="background-color: #003366; color: black; padding: 30px; border-radius: 8px; font-family: Arial, sans-serif;"> 
+<!-- <div style="background-color: #003366; color: black; padding: 30px; border-radius: 8px; font-family: Arial, sans-serif;"> -->
   
 # **Eric Mwakazi**
 🔧  Software Developer | DevOps Enthusiast | Infrastructure Automation | Cloud-Native Enthusiast  

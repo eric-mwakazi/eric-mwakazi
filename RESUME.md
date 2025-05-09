@@ -86,6 +86,14 @@ Demonstrates **Blue-Green Deployment strategy** using Kubernetes and modern CI/C
 - Integrated **SonarQube** for static code analysis and **Nexus** for artifact management
 - All tools ran as **Docker containers** for portability and reliability
 
+### [Moringa-Ansible-Workshop ](https://github.com/eric-mwakazi/Moringa-Ansible-workshop) *(Ongoing)*
+Demonstrates **Infrastructure as Code (IaC)** and **Configuration Management** with Ansible:
+- Provisioned two virtual machines (**RHEL** and **Ubuntu** families) to simulate cross-platform automation  
+- Used **Ansible** to automate infrastructure provisioning and configuration across both environments  
+- Covers **Ansible roles, playbooks, and idempotent automation practices**  
+- Scheduled for **presentation on May 15th, 2025**, as part of a technical workshop session
+
+
 ---
 
 ### [EC2 Ansible Automation – KU Edition](https://github.com/eric-mwakazi/ku-edition)

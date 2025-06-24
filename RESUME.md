@@ -38,13 +38,20 @@ Seeking a challenging role in **operations and systems control** where I can app
 <hr style="border:1px solid #ccc;">
 
 ##  **Experience**
-
+### **The Hillcroft Group, Nairobi**  
+**Backend & DevOps Engineer** *(May 2025 – Present)*  
+- Designed and deployed cloud-based solutions to support internal and community-driven developer projects. 
+- Developed and maintained CI/CD pipelines for automated testing, building, and deployment  
+- Set up monitoring and alerting using Prometheus and Grafana 
 ### **GDG on Campus, Maseno University**  
 **DevOps Lead** *(Aug 2024 – Present)*  
 - Led automation and deployment of cloud-based solutions for developer community projects  
 - Implemented CI/CD pipelines for seamless integration and deployment  
-- Set up monitoring and alerting using Prometheus and Grafana 
-
+- Built and exposed RESTful APIs using Java
+- Automated routine tasks and system processes using Bash and Python
+- Deployed and managed containerized applications using Docker and Docker Compose
+- Orchestrated workloads and services in Kubernetes (K8s) clusters
+- Implemented monitoring and alerting with Prometheus, Grafana, and Uptime Kuma
 ### **RentchApp.com**  
 **Software Developer** *(Jun 2024 – Sep 2024)*  
 - Designed and deployed secure, well-documented Flask-based APIs for property management  

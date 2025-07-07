@@ -9,15 +9,11 @@
 ## [📫Email: mwakazieric@gmail.com](mailto:mwakazieric@gmail.com)
 
 ###  - 🌱 **About**
-👋 Hi there! I'm Eric Mwakazi, a skilled backend developer with expertise in Java, Python, Flask, and Node.js, specializing in creating robust, scalable web applications and APIs.
+👋 I'm Eric Mwakazi, a backend developer and DevOps engineer who builds scalable, high-performance systems using Java (Vert.x), Python (Flask), Node.js, and TypeScript. I also work with modern frontend frameworks like Angular Material to build cohesive full-stack solutions.
 
-💻 With a strong foundation in Python and Java I focus on building clean, efficient code to enhance user experiences. My experience extends to DevOps, where I’m proficient in tools like Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, and Grafana, allowing me to streamline CI/CD pipelines, automate infrastructure, and monitor applications effectively.
+🛠️ I automate infrastructure and workflows using Python, Bash, Terraform, and Ansible, and streamline CI/CD with tools like Docker, Kubernetes, and Jenkins. With hands-on experience across AWS, Azure, and both SQL/NoSQL databases, I design and deploy cloud-native solutions that are fast, resilient, and production-ready.
 
-🌐 I bring a solid grasp of full-stack development principles, including HTML, CSS, and JavaScript, and collaborate with frontend teams to deliver cohesive solutions. My database management experience in SQL and NoSQL ensures data integrity and optimal performance for dynamic applications.
-
-🛠️ Skilled in version control with Git and comfortable in Agile environments.
-☁️ I also have hands-on experience with cloud platforms like AWS and Azure, enabling me to design scalable and resilient cloud-based solutions.
-
+⚡ Passionate about clean code, smart automation, and building things that scale.
 
 🚀 Let’s connect and explore how we can bring impactful ideas to life!
 
@@ -33,6 +29,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Database
@@ -42,10 +40,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis&color=red)
 
 ### Software Development Frameworks and Libraries💻 🌐
-
+[![Vert.x](https://img.shields.io/badge/vert.x-6C3483?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0Ij48Y2lyY2xlIGN4PSI1MTIiIGN5PSI1MTIiIHI9IjUxMiIgZmlsbD0iIzZDMzQ4MyIvPjwvc3ZnPg==)](https://vertx.io)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/angular--material-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
 ### Devops Tools and Frameworks ⚙️ 🖥

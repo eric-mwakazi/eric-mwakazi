@@ -9,13 +9,13 @@
 ## [📫Email: mwakazieric@gmail.com](mailto:mwakazieric@gmail.com)
 
 ###  - 🌱 **About**
-👋 Hi there! I'm Eric Mwakazi, a skilled backend developer with expertise in Python, Flask, and Node.js, specializing in creating robust, scalable web applications and APIs.
+👋 Hi there! I'm Eric Mwakazi, a skilled backend developer with expertise in Java, Python, Flask, and Node.js, specializing in creating robust, scalable web applications and APIs.
 
-💻 With a strong foundation in Python, I focus on building clean, efficient code to enhance user experiences. My experience extends to DevOps, where I’m proficient in tools like Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, and Grafana, allowing me to streamline CI/CD pipelines, automate infrastructure, and monitor applications effectively.
+💻 With a strong foundation in Python and Java I focus on building clean, efficient code to enhance user experiences. My experience extends to DevOps, where I’m proficient in tools like Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, and Grafana, allowing me to streamline CI/CD pipelines, automate infrastructure, and monitor applications effectively.
 
 🌐 I bring a solid grasp of full-stack development principles, including HTML, CSS, and JavaScript, and collaborate with frontend teams to deliver cohesive solutions. My database management experience in SQL and NoSQL ensures data integrity and optimal performance for dynamic applications.
 
-🛠️ Skilled in version control with Git and comfortable in Agile environments, I’m a recent ALX software engineering graduate eager to apply my technical and collaborative skills to innovative projects.
+🛠️ Skilled in version control with Git and comfortable in Agile environments.
 ☁️ I also have hands-on experience with cloud platforms like AWS and Azure, enabling me to design scalable and resilient cloud-based solutions.
 
 

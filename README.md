@@ -1,7 +1,7 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsimplecoding.dev%2Fassets%2Fdevops.gif&f=1&nofb=1&ipt=5b6d2625a334d7b7a12686bfa606dc36bcd71080139c35191b2adf68f1cc124f&ipo=images)](https://rishavchanda.io)
 ### <h1 align="center">BACKEND & DEVOPS ENGINEER</h1>
 
-## [🧰MY RESUME](https://github.com/eric-mwakazi/eric-mwakazi/blob/main/RESUME.md)
+## [🧰MY RESUME](https://github.com/eric-mwakazi/eric-mwakazi/blob/main/RESUME_V1.md)
 
 ## [🌐My LinkedIn](https://www.linkedin.com/in/eric-mwakazi/)
 

@@ -34,7 +34,7 @@ DevOps Engineer and Software Developer specializing in **cloud-native infrastruc
 ## **Experience**
 
 ### **mTek Services, Nairobi**  
-**Backend & DevOps Engineer** *(May 2025 – Present)*  
+**DevOps & Backend Engineer** *(May 2025 – Present)*  
 - Designed and deployed **CI/CD pipelines** for enterprise SaaS solutions integrating SonarQube + Nexus.  
 - Built and deployed RESTful APIs in **Java** for internal business automation.  
 - Automated infrastructure tasks with **Ansible & Bash**, reducing manual interventions.  

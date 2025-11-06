@@ -1,59 +1,80 @@
 # **Eric Mwakazi**
 🔧  DevOps Engineer | Cloud & Infrastructure Automation | Enterprise SaaS & FinTech Systems  
-📍 Mombasa, Kenya  
+📍 Nairobi, Kenya  
 📞 0706570456 | 📧 mwakazieric@gmail.com  
-🔗 [Portfolio](https://mwakazieric.vercel.app) | [LinkedIn](https://www.linkedin.com/in/eric-mwakazi) | [GitHub](https://github.com/eric-mwakazi) | [Upwork](https://www.upwork.com/freelancers/~010f6f117ec8ade48c?mp_source=share)
+🔗 [Portfolio](https://mwakazieric.vercel.app) | [LinkedIn](https://www.linkedin.com/in/eric-mwakazi) | [GitHub](https://github.com/eric-mwakazi) |
 
----
+## Professional Summary
 
-## **Professional Summary**
-
-DevOps Engineer and Software Developer specializing in **cloud-native infrastructure, CI/CD automation, and enterprise SaaS reliability**. Experienced in **Kubernetes, Docker, Ansible, Terraform, and AWS** to support **secure, AI-driven financial and business applications**. Strong background in **system security (CEH-certified)** and **automation of mission-critical workflows**. Adept at building scalable pipelines, monitoring high-availability systems, and securing enterprise operations across finance, SaaS, and multi-industry environments.
+DevOps & Cloud Engineer specializing in infrastructure automation, CI/CD pipelines, cloud-native deployments, and system reliability. Experienced in AWS, Azure, Docker, Kubernetes, GitOps, and distributed monitoring systems. Strong background in automation using Ansible, Terraform, and GitHub Actions, with hands-on expertise supporting scalable SaaS, edge-compute, and containerized systems.
+Passionate about enabling cross-functional teams, improving release workflows, and running resilient infrastructure that powers innovative technology platforms.
 
 ---
 
 ## **Skills & Technologies**
 
-### DevOps & Cloud
-- **Containerization & Orchestration:** Docker, Kubernetes  
-- **Infrastructure as Code (IaC):** Ansible, Terraform  
-- **CI/CD & Automation:** Jenkins, GitHub Actions, SonarQube, Nexus  
-- **Cloud Platforms:** AWS (EC2, S3, Lambda)  
-- **Virtualization:** Proxmox VE  
-- **Monitoring & Logging:** Prometheus, Grafana, Loki, Uptime Kuma  
+### Cloud & Infrastructure
 
-### Backend & System Administration
-- **Programming:** Python (Flask), Node.js, TypeScript, Bash  
-- **APIs & Integrations:** REST APIs, API Gateways  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Networking & Security:** VPN, Firewalls, CEH-certified practices  
-- **Linux Administration:** Ubuntu, CentOS, NGINX, Apache  
+* AWS: EC2, S3, Lambda, CloudWatch, IAM
+
+* Azure: ACR, AKS, Azure DevOps
+
+* IaC & Automation: Ansible, Terraform, Bash, GitHub Actions, Jenkins
+
+* Versioning & Artifact Management: GitHub, Nexus, SonarQube
+
+### Containerization & Orchestration
+
+* Docker, Kubernetes (K8s), Helm, GitOps (ArgoCD/Portainer)
+
+* Multi-service deployments, resource optimization, RBAC
+
+### Monitoring, Logging & Reliability
+
+* Prometheus, Grafana, Loki, Uptime Kuma
+
+* Performance tuning, alerting, cost optimization
+
+### Backend & Integrations
+
+* Java (Spring/REST), Python (Flask), Node.js
+
+* REST APIs, NGINX reverse proxy, API Gateways
+
+* MongoDB
 
 ---
 
 ## **Experience**
 
 ### **mTek Services, Nairobi**  
-**DevOps & Backend Engineer** *(May 2025 – Present)*  
-- Designed and deployed **CI/CD pipelines** for enterprise SaaS solutions integrating SonarQube + Nexus.  
-- Built and deployed RESTful APIs in **Java** for internal business automation.  
-- Automated infrastructure tasks with **Ansible & Bash**, reducing manual interventions.  
-- Deployed and managed containerized enterprise workloads on local servers and Azure DevOps, leveraging Docker and Kubernetes.
-- Implemented GitOps workflows with ArgoCD for automated deployments, easy tracking, and seamless rollbacks..  
-- Configured **high-availability monitoring & alerting** using Prometheus, Grafana, and Uptime Kuma.  
+**DevOps & Backend Engineer** *(May 2025 – Present)* 
+* Implemented GitOps workflows with ArgoCD/Portainer, enabling automated releases, versioned rollbacks, and environment consistency.
+* Developed and deployed Java-based REST APIs used for internal business automation workflows.
 
+* Automated infrastructure operations using Ansible & Bash, reducing repetitive tasks and human errors.
+
+* Managed and deployed containerized workloads across Azure and on-premises environments using Docker and Kubernetes.
+
+* Built high-availability monitoring & alerting using Prometheus, Grafana, Loki, and Uptime Kuma.
+
+* Strengthened platform security through Snyk-based vulnerability scanning and automated dependency monitoring.
+
+* Collaborated with QA, engineering, and product teams to troubleshoot deployment and performance issues.
 ### **GDG on Campus, Maseno University**  
-**DevOps Lead** *(Aug 2024 – Present)*  
-- Led automation for developer community projects using **cloud-native pipelines**.  
-- Deployed and maintained **CI/CD pipelines** for rapid innovation at scale.  
-- Implemented centralized **monitoring and observability** with Prometheus & Grafana.  
+**DevOps Lead** *(Aug 2024 – Aug 2025)*  
+- Led automation for community software projects using cloud-native tooling.
 
+- Built CI/CD pipelines enabling faster releases for demo and production environments.
+
+- Implemented centralized monitoring with Prometheus & Grafana for multi-project observability.
 ### **RentchApp.com**  
-**Software Developer** *(Jun 2024 – Sep 2024)*  
-- Developed and deployed secure **Flask-based APIs** for property management SaaS.  
-- Used Docker & Google Container Registry (GCR) to scale backend services.  
-- Enhanced enterprise security with **NGINX reverse proxy** and **database encryption**.  
+**Software Developer** *(Jun 2024 – Sep 2024)*
+- Developed secure Flask APIs for property management SaaS platforms.
 
+- Containerized backend services using Docker and deployed via GCR.
+
+- Configured NGINX reverse proxy and database security (TLS, encryption).
 ### **Reef Hotel Kenya**  
 **IT Intern** *(Apr 2024 – Aug 2024)*  
 - Administered Linux servers and optimized hotel IT infrastructure.  
@@ -68,48 +89,33 @@ DevOps Engineer and Software Developer specializing in **cloud-native infrastruc
 
 ## **Education & Certifications**
 
-- **BSc in Information Technology** – Maseno University *(Expected Apr 2025)*  
+- **BSc in Information Technology** – Maseno University *(Graduation Nov 2025)*  
 - **Software Engineering Graduate** – ALX Africa *(Jan 2023 – Jun 2024)*  
-- **Certified Ethical Hacker (CEH)** – Cisco & Cybershujaa  
-- **AWS Cloud Practitioner (In Progress)**  
-
+- **AWS Cloud Practitioner (In Progress)**
 ---
 
 ## **Projects & Homelab**
 
 ### [Blue-Green Deployment Practice](https://github.com/eric-mwakazi/Blue-Green-Deploy-Practice)  
-- Implemented **Blue-Green deployment strategy** with Kubernetes + Jenkins for **zero downtime SaaS deployments**.  
-- Integrated **SonarQube** for static code analysis and **Nexus** for artifact lifecycle management.  
-- Automated infrastructure provisioning using **Terraform** and **Ansible**.  
+- Implemented full blue-green deployment automation with K8s + Jenkins.
+
+- Added static code analysis (SonarQube) and artifact workflows (Nexus).
+
+- Provisioned infrastructure using Terraform & Ansible.  
 
 ### [Moringa-Ansible-Workshop](https://github.com/eric-mwakazi/Moringa-Ansible-workshop) *(Ongoing)*  
-- Demonstrates **Infrastructure as Code (IaC)** with **Ansible playbooks & roles**.  
-- Automated provisioning across **RHEL & Ubuntu servers**, simulating enterprise multi-platform environments.  
-- Will be presented in a **technical workshop (May 15, 2025)**.  
+- Enterprise-style multi-OS provisioning using Ansible playbooks & roles and terraform. 
 
 ### [EC2 Ansible Automation – KU Edition](https://github.com/eric-mwakazi/ku-edition)  
-- Automated **AWS EC2 provisioning & configuration** with Ansible.  
-- Installed secure services (**NGINX, UFW firewall**) and deployed a **custom web app**.  
+- Automated EC2 setup, service installation, configurations, and hardening using Ansible.  
 
 ### [Django-React App Dockerization](https://github.com/eric-mwakazi/Django-and-React-app-Dockerization)  
-- Dockerized a full-stack **Django + React SaaS application**.  
-- Used Docker Compose for multi-service orchestration and PostgreSQL deployment.  
-- Managed secrets & configs via `.env` and published images to Docker Hub.  
+- Dockerized full-stack SaaS app with Compose, PostgreSQL, and secrets management. 
 
 ### **Homelab Automation & Kubernetes Cluster**  
-- Built a **3-node Kubernetes cluster** on Proxmox VE.  
-- Deployed **Pi-hole DNS**, **Tailscale VPN**, and centralized monitoring stack (Prometheus + Grafana).  
-- Configured **RBAC policies, DNS resolution, GitOps-style automation**, and multi-service deployments simulating enterprise SaaS infrastructure.  
+- Built a 3-node Proxmox-based Kubernetes cluster.
 
----
-
-## **Languages & Tools**
-
-**Languages:** Python, Bash, SQL  
-**Frameworks/Tools:** Flask, Git, Docker, Kubernetes, Terraform, Ansible  
-**Monitoring & Quality:** Prometheus, Grafana, SonarQube  
-**Cloud & Virtualization:** AWS, Proxmox, Nexus, Jenkins  
-
+- Deployed Pi-hole DNS, Tailscale VPN, GitOps pipelines, and observability stack.
 ---
 
 ## **References**
@@ -120,4 +126,4 @@ Tech Lead, Wananchi Group
 
 **Emmanuel Kipkorir**  
 System Engineer, Turnkey Africa Ltd  
-📞 +254 788 109 331 | 📧 manueldebwayjnr@gmail.com  
+📞 +254 788 109 331 | 📧 manueldebwayjnr@gmail.com   

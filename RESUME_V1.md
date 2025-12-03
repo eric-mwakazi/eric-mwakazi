@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-DevOps & Cloud Engineer specializing in infrastructure automation, CI/CD pipelines, cloud-native deployments, and system reliability. Experienced in AWS, Azure, Docker, Kubernetes, GitOps, and distributed monitoring systems. Strong background in automation using Ansible, Terraform, and GitHub Actions, with hands-on expertise supporting scalable SaaS, edge-compute, and containerized systems.
+DevOps Engineer specializing in infrastructure automation, CI/CD pipelines, cloud-native deployments, and system reliability. Experienced in AWS, Azure, Docker, Kubernetes, GitOps, and distributed monitoring systems. Strong background in automation using Ansible, Terraform, and GitHub Actions, with hands-on expertise supporting scalable SaaS, edge-compute, and containerized systems.
 Passionate about enabling cross-functional teams, improving release workflows, and running resilient infrastructure that powers innovative technology platforms.
 
 ---
@@ -37,43 +37,38 @@ Passionate about enabling cross-functional teams, improving release workflows, a
 
 ### Backend & Integrations
 
-* Java (Spring/REST), Python (Flask), Node.js
+* Java, Python
 
 * REST APIs, NGINX reverse proxy, API Gateways
-
+## Databases
 * MongoDB
+* Mysql and Postgres
 
 ---
 
 ## **Experience**
 
-### **mTek Services, Nairobi**  
+### **mTek Services, Nairobi**
 **DevOps & Backend Engineer** *(May 2025 – Present)* 
-* Implemented GitOps workflows with ArgoCD/Portainer, enabling automated releases, versioned rollbacks, and environment consistency.
-* Developed and deployed Java-based REST APIs used for internal business automation workflows.
-
-* Automated infrastructure operations using Ansible & Bash, reducing repetitive tasks and human errors.
-
-* Managed and deployed containerized workloads across Azure and on-premises environments using Docker and Kubernetes.
-
-* Built high-availability monitoring & alerting using Prometheus, Grafana, Loki, and Uptime Kuma.
-
-* Strengthened platform security through Snyk-based vulnerability scanning and automated dependency monitoring.
-
+* Developed Java-based REST APIs used for internal business rules and automation workflows.
+* Designed and automated end-to-end CI/CD pipelines for Dockerized and Kubernetes workloads, enabling faster, predictable, and less error-prone releases.
+* Implemented automated rollouts and rollbacks for Portainer-managed services, integrating health checks, version tracking, and safe deployment strategies.
+* Built a Python-based deployment notifier to monitor service health, detect rollout failures early, and send real-time alerts to engineering teams.
+* Migrated infrastructure to Terraform and Ansible, ensuring reproducible cluster provisioning, configuration consistency, and secure environment baselines.
+* Enforced security and compliance policies across clusters using OPA/Gatekeeper, Terraform guardrails, and container vulnerability scanning with Snyk.
+* Maintained highly available infrastructure across Azure AKS and on-prem environments, optimizing performance, cost, and reliability.
+* Set up an integrated observability stack with Prometheus, Grafana, Loki, and Uptime Kuma, improving incident response and root-cause analysis.
+* Automated frequent operational tasks with Bash, Ansible, and Python, significantly reducing manual workload and deployment risks.
 * Collaborated with QA, engineering, and product teams to troubleshoot deployment and performance issues.
 ### **GDG on Campus, Maseno University**  
 **DevOps Lead** *(Aug 2024 – Aug 2025)*  
 - Led automation for community software projects using cloud-native tooling.
-
 - Built CI/CD pipelines enabling faster releases for demo and production environments.
-
 - Implemented centralized monitoring with Prometheus & Grafana for multi-project observability.
 ### **RentchApp.com**  
 **Software Developer** *(Jun 2024 – Sep 2024)*
 - Developed secure Flask APIs for property management SaaS platforms.
-
 - Containerized backend services using Docker and deployed via GCR.
-
 - Configured NGINX reverse proxy and database security (TLS, encryption).
 ### **Reef Hotel Kenya**  
 **IT Intern** *(Apr 2024 – Aug 2024)*  
@@ -89,12 +84,12 @@ Passionate about enabling cross-functional teams, improving release workflows, a
 
 ## **Education & Certifications**
 
-- **BSc in Information Technology** – Maseno University *(Graduation Nov 2025)*  
-- **Software Engineering Graduate** – ALX Africa *(Jan 2023 – Jun 2024)*  
+- **BSc in Information Technology** – Maseno University 
+- **Software Engineering Graduate** – ALX Africa *(Jan 2023 – Jun 2024)* 
 - **AWS Cloud Practitioner (In Progress)**
 ---
 
-## **Projects & Homelab**
+## **Personal Projects & Homelab**
 
 ### [Blue-Green Deployment Practice](https://github.com/eric-mwakazi/Blue-Green-Deploy-Practice)  
 - Implemented full blue-green deployment automation with K8s + Jenkins.
@@ -103,7 +98,7 @@ Passionate about enabling cross-functional teams, improving release workflows, a
 
 - Provisioned infrastructure using Terraform & Ansible.  
 
-### [Moringa-Ansible-Workshop](https://github.com/eric-mwakazi/Moringa-Ansible-workshop) *(Ongoing)*  
+### [Moringa-Ansible-Workshop](https://github.com/eric-mwakazi/Moringa-Ansible-workshop)  
 - Enterprise-style multi-OS provisioning using Ansible playbooks & roles and terraform. 
 
 ### [EC2 Ansible Automation – KU Edition](https://github.com/eric-mwakazi/ku-edition)  

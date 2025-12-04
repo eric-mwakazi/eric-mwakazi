@@ -10,44 +10,27 @@ DevOps Engineer specializing in infrastructure automation, CI/CD pipelines, clou
 Passionate about enabling cross-functional teams, improving release workflows, and running resilient infrastructure that powers innovative technology platforms.
 
 ---
-
 ## **Skills & Technologies**
 
 ### Cloud & Infrastructure
-
 * AWS: EC2, S3, Lambda, CloudWatch, IAM
-
 * Azure: ACR, AKS, Azure DevOps
-
 * IaC & Automation: Ansible, Terraform, Bash, GitHub Actions, Jenkins
-
 * Versioning & Artifact Management: GitHub, Nexus, SonarQube
-
 ### Containerization & Orchestration
-
 * Docker, Kubernetes (K8s), Helm, GitOps (ArgoCD/Portainer)
-
 * Multi-service deployments, resource optimization, RBAC
-
 ### Monitoring, Logging & Reliability
-
 * Prometheus, Grafana, Loki, Uptime Kuma
-
 * Performance tuning, alerting, cost optimization
-
 ### Backend & Integrations
-
 * Java, Python
-
 * REST APIs, NGINX reverse proxy, API Gateways
 ## Databases
 * MongoDB
 * Mysql and Postgres
-
 ---
-
 ## **Experience**
-
 ### **mTek Services, Nairobi**
 **DevOps & Backend Engineer** *(May 2025 – Present)* 
 * Developed Java-based REST APIs used for internal business rules and automation workflows.
@@ -74,7 +57,6 @@ Passionate about enabling cross-functional teams, improving release workflows, a
 **IT Intern** *(Apr 2024 – Aug 2024)*  
 - Administered Linux servers and optimized hotel IT infrastructure.  
 - Assisted in system hardening, patching, and **network troubleshooting**.  
-
 ### **Zuku Fiber**  
 **Sales Agent & Technical Support** *(May 2021 – Aug 2023)*  
 - Assisted customers with **network troubleshooting and WiFi performance** optimization.  
@@ -98,10 +80,10 @@ Passionate about enabling cross-functional teams, improving release workflows, a
 
 - Provisioned infrastructure using Terraform & Ansible.  
 
-### [Moringa-Ansible-Workshop](https://github.com/eric-mwakazi/Moringa-Ansible-workshop)  
+### [Moringa-Ansible-Workshop](https://github.com/eric-mwakazi/Moringa-Ansible-workshop)
 - Enterprise-style multi-OS provisioning using Ansible playbooks & roles and terraform. 
 
-### [EC2 Ansible Automation – KU Edition](https://github.com/eric-mwakazi/ku-edition)  
+### [EC2 Ansible Automation – KU Edition](https://github.com/eric-mwakazi/ku-edition)
 - Automated EC2 setup, service installation, configurations, and hardening using Ansible.  
 
 ### [Django-React App Dockerization](https://github.com/eric-mwakazi/Django-and-React-app-Dockerization)  

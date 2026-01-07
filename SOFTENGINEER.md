@@ -145,14 +145,17 @@ Skilled in infrastructure automation and CI/CD pipeline design using tools such 
 ---
 
 ## **References**
-
-**George Mshimba Kimbio**  
-Tech Lead, Wananchi Group  
-📞 +255 693 094 630 | 📧 georgekimbio@gmail.com  
+**Richard Omoka**  
+Site Reliability Engineer, mTek Services <br>
+📞 +254 717 225954 | 📧 richard@thehillcroftgroup.com
 
 **Dr Roxanne Hawi**  
 Lecturer, Maseno University  
 📞 +64 211674821 | 📧 dr.roxannehawi@gmail.com 
+
+**George Mshimba Kimbio**  
+Tech Lead, Wananchi Group  
+📞 +255 693 094 630 | 📧 georgekimbio@gmail.com 
 
 **Emmanuel Kipkorir**  
 System Engineer, Turnkey Africa Ltd  

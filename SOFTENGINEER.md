@@ -15,7 +15,7 @@ Skilled in infrastructure automation and CI/CD pipeline design using tools such 
 ---
 ## Skills & Technologies
 
-### Programming & Backend Engineering
+### Programming & Backend Development
 * Java, Python
 * RESTful API design & implementation
 * Microservices architecture
@@ -57,16 +57,21 @@ Skilled in infrastructure automation and CI/CD pipeline design using tools such 
 ## **Experience**
 ### **mTek Services, Nairobi**
 **DevOps & Backend Engineer** *(May 2025 – Present)* 
-* Developed Java-based REST APIs used for internal business rules and automation workflows.
-* Designed and automated end-to-end CI/CD pipelines for Dockerized and Kubernetes workloads, enabling faster, predictable, and less error-prone releases.
-* Implemented automated rollouts and rollbacks for Portainer-managed services, integrating health checks, version tracking, and safe deployment strategies.
+* Designed and developed Java-based REST APIs supporting internal business rules, automation workflows, and service integrations.
+* Led the migration of Azure Kubernetes Service (AKS) from a legacy cluster to a new production-grade environment, improving stability, scalability, and fault tolerance.
+* Implemented API Gateway–based traffic switching to enable zero/minimal-downtime cutovers during cluster migration.
+* Strengthened cluster- and pod-level security using RBAC, network policies, secrets management, hardened container images, and security baselines.
+* Implemented ingress and load-balancing strategies to improve traffic distribution, performance, and high availability.
+* Provisioned and managed infrastructure using Infrastructure as Code (Terraform) and configuration management with Ansible, ensuring reproducible, auditable, and secure environments.
+* Adopted GitOps workflows with Argo CD for fully managed Kubernetes deployments, enabling continuous delivery, safe rollbacks, and high availability.
+* Designed and automated CI/CD pipelines for Dockerized and Kubernetes workloads, reducing deployment errors and accelerating release cycles.
+* Implemented automated rollouts and rollbacks for Docker-managed services using Portainer, integrating health checks and version tracking.
 * Built a Python-based deployment notifier to monitor service health, detect rollout failures early, and send real-time alerts to engineering teams.
-* Migrated infrastructure to Terraform and Ansible, ensuring reproducible cluster provisioning, configuration consistency, and secure environment baselines.
-* Enforced security and compliance policies across clusters using OPA/Gatekeeper, Terraform guardrails, and container vulnerability scanning with Snyk.
-* Maintained highly available infrastructure across Azure AKS and on-prem environments, optimizing performance, cost, and reliability.
-* Set up an integrated observability stack with Prometheus, Grafana, Loki, and Uptime Kuma, improving incident response and root-cause analysis.
-* Automated frequent operational tasks with Bash, Ansible, and Python, significantly reducing manual workload and deployment risks.
-* Collaborated with QA, engineering, and product teams to troubleshoot deployment and performance issues.
+* Enforced security and compliance policies using OPA/Gatekeeper, Terraform guardrails, and container vulnerability scanning with Snyk.
+* Maintained highly available hybrid infrastructure across Azure AKS and on-prem environments, optimizing performance, cost, and reliability.
+* Implemented an observability stack with Prometheus, Grafana, Loki, and Uptime Kuma, improving incident response and root-cause analysis.
+* Automated operational workflows using Bash, Ansible, and Python, significantly reducing manual effort and infrastructure incidents.
+* Collaborated with QA, engineering, and product teams to troubleshoot deployment, performance, and reliability issues.
 ### **GDG on Campus, Maseno University**  
 **DevOps Lead** *(Aug 2024 – Aug 2025)*  
 - Led automation for community software projects using cloud-native tooling.

@@ -106,7 +106,7 @@ Skilled in infrastructure automation and CI/CD pipeline design using tools such 
 ## Personal Projects & Homelab
 
 ### Crypto Mchanga – Fintech DApp (Microservices Architecture)
-**Tech:** Java, REST APIs, Ethereum, Smart Contracts, Web3, Microservices, Docker, Kubernetes, NGINX, Git, CI/CD  
+**Tech:** REST APIs, Ethereum, Smart Contracts, Web3, Microservices, Docker, Kubernetes, NGINX, Git, CI/CD  
 - Designed and implemented a **fintech-grade decentralized application** enabling **secure fund transfers between M-Pesa and the Ethereum blockchain**.
 - Built a **microservices-based backend** to handle transaction orchestration, validation, and external network integrations.
 - Integrated **Ethereum smart contracts** for on-chain settlement, event listening, and transaction verification.

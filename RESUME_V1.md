@@ -70,7 +70,7 @@ Passionate about enabling cross-functional teams, improving release workflows, a
 - **Software Engineering Graduate** – ALX Africa *(Jan 2023 – Jun 2024)* 
 - **AWS Cloud Practitioner (In Progress)**
 ---
-
+<!--
 ## **Personal Projects & Homelab**
 
 ### [Blue-Green Deployment Practice](https://github.com/eric-mwakazi/Blue-Green-Deploy-Practice)  

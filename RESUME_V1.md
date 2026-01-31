@@ -95,7 +95,7 @@ Passionate about enabling cross-functional teams, improving release workflows, a
 - Deployed Pi-hole DNS, Tailscale VPN, GitOps pipelines, and observability stack.
 ---
 
-## **References**
+<!-- ## **References**
 
 **George Mshimba Kimbio**  
 Tech Lead, Wananchi Group  
@@ -103,4 +103,4 @@ Tech Lead, Wananchi Group
 
 **Emmanuel Kipkorir**  
 System Engineer, Turnkey Africa Ltd  
-📞 +254 788 109 331 | 📧 manueldebwayjnr@gmail.com   
+📞 +254 788 109 331 | 📧 manueldebwayjnr@gmail.com    -->

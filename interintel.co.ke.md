@@ -39,7 +39,7 @@ Junior DevOps Engineer with strong exposure to Site Reliability Engineering prac
 
 ## **Experience**
 
-### **DevOps & Backend Engineer — mTek Services, Nairobi (Internship)**  
+### **DevOps & Backend Developer Intern — mTek Services, Nairobi**  
 **May 2025 – Present**
 - Implemented and managed observability stack (Prometheus, Grafana, Loki) to monitor service latency, traffic, resource usage, and error rates across microservices.
 - Improved system reliability by designing dashboards and alerting mechanisms for proactive detection of incidents and performance degradation.

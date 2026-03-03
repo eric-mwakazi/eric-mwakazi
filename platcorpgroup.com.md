@@ -37,7 +37,7 @@ Junior DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD p
 
 ## **Experience**
 
-### **DevOps & Backend Engineer — mTek Services, Nairobi (Internship)**  
+### **DevOps & Backend Engineer — mTek Services, Nairobi **  
 **May 2025 – Present**
 - Designed and deployed a new Azure AKS cluster integrated with Azure Application Gateway, improving microservice scalability, routing efficiency, and overall system uptime.
 - Implemented pod/container security policies and resource limits, eliminating service crashes and stabilizing workloads across all microservices.

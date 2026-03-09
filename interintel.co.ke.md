@@ -1,5 +1,5 @@
 # **Eric Mwakazi**
-Junior DevOps / Site Reliability Engineer  
+Site Reliability Engineer  
 📍 Nairobi, Kenya  
 📞 0706570456 | 📧 mwakazieric@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/eric-mwakazi) | [GitHub](https://github.com/eric-mwakazi)
@@ -7,7 +7,7 @@ Junior DevOps / Site Reliability Engineer
 ---
 
 ## **Profile Summary**
-Junior DevOps Engineer with strong exposure to Site Reliability Engineering practices, including monitoring, observability, automation, and cloud-native infrastructure. Hands-on experience with Prometheus, Grafana, Loki, Kubernetes, Terraform, and CI/CD pipelines. Skilled in improving system reliability, reducing operational toil through scripting and automation, supporting incident response, and ensuring consistent, scalable infrastructure. Passionate about building resilient systems, tracking SLIs/SLOs, and enhancing overall platform performance and availability.
+SRE Engineer with strong exposure to Site Reliability Engineering practices, including monitoring, observability, automation, and cloud-native infrastructure. Hands-on experience with Prometheus, Grafana, Loki, Kubernetes, Terraform, and CI/CD pipelines. Skilled in improving system reliability, reducing operational toil through scripting and automation, supporting incident response, and ensuring consistent, scalable infrastructure. Passionate about building resilient systems, tracking SLIs/SLOs, and enhancing overall platform performance and availability.
 
 ---
 

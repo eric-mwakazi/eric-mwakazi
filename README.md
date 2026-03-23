@@ -9,9 +9,7 @@
 ## [📫Email: mwakazieric@gmail.com](mailto:mwakazieric@gmail.com)
 
 ###  - 🌱 **About**
-👋 I'm Eric Mwakazi, a backend developer and DevOps engineer who builds scalable, high-performance systems using Java (Vert.x), Python (Flask), Node.js, and TypeScript. I also work with modern frontend frameworks like Angular Material to build cohesive full-stack solutions.
-
-🛠️ I automate infrastructure and workflows using Python, Bash, Terraform, and Ansible, and streamline CI/CD with tools like Docker, Kubernetes, and Jenkins. With hands-on experience across AWS, Azure, and both SQL/NoSQL databases, I design and deploy cloud-native solutions that are fast, resilient, and production-ready.
+🛠️ I automate infrastructure, workflows and streamline CI/CD pipelines, design and deploy cloud-native solutions that are fast, resilient, and production-ready.
 
 ⚡ Passionate about clean code, smart automation, and building things that scale.
 

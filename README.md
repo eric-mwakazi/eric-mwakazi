@@ -18,7 +18,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="eric-mwakazi" width="400">
 
 ### Connect With Me:
-[![Twitter: NeivannyN ](https://img.shields.io/twitter/follow/NeivannyN?style=for-the-badge&color=black)](https://twitter.com/NeivannyN)
+<!--[![Twitter: NeivannyN ](https://img.shields.io/twitter/follow/NeivannyN?style=for-the-badge&color=black)](https://twitter.com/NeivannyN)-->
 [![Linkedin: Mwakazi](https://img.shields.io/badge/-Eric-blue?style=for-the-badge&logo=Linkedin&Color=black)](https://www.linkedin.com/in/eric-mwakazi/)
 [![GitHub Neivanny1 ](https://img.shields.io/github/followers/eric-mwakazi?label=follow&style=for-the-badge&color=black)](https://github.com/eric-mwakazi)
 ### Programming Languages 💻 🌐

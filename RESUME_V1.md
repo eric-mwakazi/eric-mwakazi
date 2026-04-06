@@ -94,18 +94,6 @@ ArgoCD • Portainer • Helm • Uptime Kuma
 
 ## **Referees**
 Available upon request.
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- # **Eric Mwakazi**
 🔧  DevOps Engineer | Cloud & Infrastructure Automation | Enterprise SaaS & FinTech Systems  
 📍 Nairobi, Kenya  
@@ -211,4 +199,4 @@ Tech Lead, Wananchi Group
 
 **Emmanuel Kipkorir**  
 System Engineer, Turnkey Africa Ltd  
-📞 +254 788 109 331 | 📧 manueldebwayjnr@gmail.com    --> -->
+📞 +254 788 109 331 | 📧 manueldebwayjnr@gmail.com    -->

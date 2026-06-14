@@ -1,5 +1,5 @@
 <!--[![MasterHead](./images/OIP-2962546517.jpg)](./images/OIP-2962546517.jpg)-->
-### <h1 align="center">BACKEND & DEVOPS ENGINEER</h1>
+### <h1 align="center">SOFTWARE DEVELOPER & DEVOPS</h1>
 
 ## [🧰MY RESUME](https://github.com/eric-mwakazi/eric-mwakazi/blob/main/RESUME_V1.md)
 

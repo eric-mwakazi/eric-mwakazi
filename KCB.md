@@ -7,36 +7,33 @@ DevOps Engineer
 ---
 
 ## **Profile Summary**
-DevOps Engineer bridging the gap between software development and IT operations to enable faster, more reliable, and efficient delivery of applications and infrastructure. Hands-on experience managing Microsoft Azure cloud environments, designing CI/CD pipelines, and provisioning infrastructure using Infrastructure as Code (Terraform, Ansible). Highly skilled in enterprise system monitoring (Prometheus, Grafana, Loki), Unix/Linux shell scripting (Bash, Python), incident management, and embedding DevSecOps practices. Passionate about continuous improvement, optimizing cloud resources for scalability and cost efficiency, and delivering secure solutions in financial/insurance tech environments.
+Software Developer and DevOps Practitioner with experience developing Java-based REST APIs, backend services, and business automation solutions while managing the full software delivery lifecycle. Built quote generation APIs and integrated enterprise systems using modern development and DevOps practices. Skilled in Microsoft Azure, CI/CD pipelines, Terraform, Ansible, Python, Bash, Prometheus, Grafana, and Loki. Strong background in cloud infrastructure automation, observability, security, and operational excellence, enabling the delivery of scalable and resilient applications.
 
 ---
 
 ## **Core Skills**
-
+### **Software Development**
+- Java Backend Development (Vertx)
+- RESTful API Development & Integration
+- Insurance/Financial Quote Generation Systems
+- Business Logic Implementation & Workflow Automation
+- Unit Testing & Application Debugging
 ### **DevOps & Automation**
-- Continuous Integration & Delivery (GitHub Actions, Azure DevOps, Jenkins)  
-- Infrastructure as Code (Terraform, Ansible, ARM Templates)  
-- DevSecOps, Vulnerability Scanning (Git, Nexus, SonarQube)
+- Continuous Integration & Delivery (GitHub Actions, Azure DevOps, Jenkins)
+- Infrastructure as Code (Terraform, Ansible, ARM Templates)
+- DevSecOps & Vulnerability Management (SonarQube, Nexus, Git Security Scanning)
+- Containerization & Orchestration (Docker, Kubernetes)
+- Cloud Infrastructure (Microsoft Azure)
+- Linux Administration & Shell Scripting (Bash, Python)
 
 ### **Cloud Platforms**
 - Microsoft Azure (AKS, ACR, App Services, Azure Data Lake)
 - AWS (EC2, S3, CloudWatch, IAM)  
 
-### **Containerization & Orchestration**
-- Docker, Kubernetes, Helm  
-- GitOps (ArgoCD, Portainer)
-
 ### **Monitoring & Observability**
 - Prometheus, Grafana, Loki, ELK/EFK Stack concepts  
 - Logs, Alerts, Performance Monitoring, Dashboards  
 - Uptime Kuma for health checks
-
-### **Programming & Systems**
-- Java
-- Unix / Linux Shell Scripting (Bash)
-- Python  
-- SQL & Database Concepts (MongoDB, PostgreSQL)
-- Linux administration, NGINX
 
 ---
 

@@ -5,7 +5,7 @@
 
 ## [🌐My LinkedIn](https://www.linkedin.com/in/eric-mwakazi/)
 
-## [🌐My Portfolio Website](https://mwakazieric.vercel.app/)
+<!--## [🌐My Portfolio Website](https://mwakazieric.vercel.app/) -->
 ## [📫Email: mwakazieric@gmail.com](mailto:mwakazieric@gmail.com)
 
 ###  - 🌱 **About**

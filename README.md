@@ -1,9 +1,9 @@
 <!--[![MasterHead](./images/OIP-2962546517.jpg)](./images/OIP-2962546517.jpg)-->
 ### <h1 align="center">SOFTWARE DEVELOPER & DEVOPS</h1>
 
-## [🧰MY RESUME](https://github.com/eric-mwakazi/eric-mwakazi/blob/main/RESUME_V1.md)
+## [🧰RESUME](https://github.com/eric-mwakazi/eric-mwakazi/blob/main/RESUME_V1.md)
 
-## [🌐My LinkedIn](https://www.linkedin.com/in/eric-mwakazi/)
+## [🌐LinkedIn](https://www.linkedin.com/in/eric-mwakazi/)
 
 <!--## [🌐My Portfolio Website](https://mwakazieric.vercel.app/) -->
 ## [📫Email: mwakazieric@gmail.com](mailto:mwakazieric@gmail.com)
